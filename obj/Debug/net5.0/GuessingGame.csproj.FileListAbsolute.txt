@@ -1,0 +1,15 @@
+/Users/itsmewar_tran/Desktop/repo/C# 27/GuessingGame/obj/Debug/net5.0/GuessingGame.csproj.AssemblyReference.cache
+/Users/itsmewar_tran/Desktop/repo/C# 27/GuessingGame/obj/Debug/net5.0/GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/itsmewar_tran/Desktop/repo/C# 27/GuessingGame/obj/Debug/net5.0/GuessingGame.AssemblyInfoInputs.cache
+/Users/itsmewar_tran/Desktop/repo/C# 27/GuessingGame/obj/Debug/net5.0/GuessingGame.AssemblyInfo.cs
+/Users/itsmewar_tran/Desktop/repo/C# 27/GuessingGame/obj/Debug/net5.0/GuessingGame.csproj.CoreCompileInputs.cache
+/Users/itsmewar_tran/Desktop/repo/C# 27/GuessingGame/bin/Debug/net5.0/GuessingGame.deps.json
+/Users/itsmewar_tran/Desktop/repo/C# 27/GuessingGame/bin/Debug/net5.0/GuessingGame.runtimeconfig.json
+/Users/itsmewar_tran/Desktop/repo/C# 27/GuessingGame/bin/Debug/net5.0/GuessingGame.runtimeconfig.dev.json
+/Users/itsmewar_tran/Desktop/repo/C# 27/GuessingGame/bin/Debug/net5.0/GuessingGame.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/GuessingGame/bin/Debug/net5.0/ref/GuessingGame.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/GuessingGame/bin/Debug/net5.0/GuessingGame.pdb
+/Users/itsmewar_tran/Desktop/repo/C# 27/GuessingGame/obj/Debug/net5.0/GuessingGame.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/GuessingGame/obj/Debug/net5.0/ref/GuessingGame.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/GuessingGame/obj/Debug/net5.0/GuessingGame.pdb
+/Users/itsmewar_tran/Desktop/repo/C# 27/GuessingGame/obj/Debug/net5.0/GuessingGame.genruntimeconfig.cache
